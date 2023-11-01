@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_tag_work_types",
+  "info": {
+    "displayName": "Work type",
+    "icon": "briefcase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Type": {
+      "type": "string"
+    }
+  }
+}

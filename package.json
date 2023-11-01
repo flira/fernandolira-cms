@@ -1,0 +1,33 @@
+{
+  "name": "fernandolira-cms",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Fernando Lira's Portfolio",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "4.15.0",
+    "@strapi/plugin-users-permissions": "4.15.0",
+    "@strapi/provider-email-sendmail": "^4.15.0",
+    "@strapi/strapi": "4.15.0",
+    "better-sqlite3": "8.6.0",
+    "strapi-plugin-ezforms": "^0.1.5",
+    "strapi-plugin-fuzzy-search": "^2.1.0",
+    "strapi-plugin-sitemap": "^3.0.5"
+  },
+  "author": {
+    "name": "Fernando Lira"
+  },
+  "strapi": {
+    "uuid": "f5ef1058-26ce-488e-8d7e-bb3fe746930d"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
