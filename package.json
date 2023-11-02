@@ -13,8 +13,10 @@
     "@strapi/plugin-i18n": "4.15.0",
     "@strapi/plugin-users-permissions": "4.15.0",
     "@strapi/provider-email-sendmail": "^4.15.0",
+    "@strapi/provider-upload-aws-s3": "^4.15.0",
     "@strapi/strapi": "4.15.0",
     "better-sqlite3": "8.6.0",
+    "pg": "^8.11.3",
     "strapi-plugin-ezforms": "^0.1.5",
     "strapi-plugin-fuzzy-search": "^2.1.0",
     "strapi-plugin-sitemap": "^3.0.5"
